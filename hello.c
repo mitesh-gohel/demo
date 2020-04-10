@@ -12,6 +12,7 @@ int main()
   printf("Hello world \n");
   printf("How are you! \n");
   fun1();
+  printf("Add funA and funB from here \n");
   funA();
   return 0;
 }
